@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DashboardApp</string>
+    <string name="api_base_domain">walshfernandes.pythonanywhere.com</string>
+    <string name="parameter_label">Enter parameter</string>
+    <string name="parameter1_label">Enter parameter 1</string>
+    <string name="parameter2_label">Enter parameter 2</string>
+</resources>
